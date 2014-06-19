@@ -1,7 +1,7 @@
 ## These functions can be used to calculate the inverse of a given square matrix
-## The inverse of a matrix is calculating using the "solve" function.
+## The inverse of a matrix is calculated using the "solve" function.
 ## Since this computation is costly, once the inverse has been calculated it is cached to be reused
-## if the same inverse is requested to be computed again
+## if the same inverse is requested again
 ## (as stated in the assignment we assume the matrix is invertible; no check is done to see whether it's true or not)
 
 ## example of usage:
